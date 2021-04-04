@@ -1,15 +1,12 @@
 <shaders>
 	<downloadmaster>https://editor.isf.video/api/shaders/{id}</downloadmaster>
 	<linkmaster>https://editor.isf.video/shaders/{id}</linkmaster>
-	<!-- New additions specifically designed for xLights. These can be found at: https://editor.isf.video/u/Old_Salt -->
-	<!-- Value curves are usually included, as well as access to the xLights color palette -->
-	<!-- Please verify these entries before release -->
 	<shader>
 		<name>Circle Bloom - 16 arm_xL</name>
 		<id>604b9540d4849b0013135d3c</id>
 		<link>https://editor.isf.video/shaders/604b9540d4849b0013135d3c</link>
 		<download>https://www.interactiveshaderformat.com/sketches/604b9540d4849b0013135d3c/download</download>
-		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/qrio2yq6tomsen2fchkk</image>
+		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/gxyfm2a4ajvhme4o4k2b</image>
 		<rating>3</rating>
 	</shader>
 	<shader>
@@ -17,7 +14,7 @@
 		<id>604d05fbdf59c70014cdc60b</id>
 		<link>https://editor.isf.video/shaders/604d05fbdf59c70014cdc60b</link>
 		<download>https://www.interactiveshaderformat.com/sketches/604d05fbdf59c70014cdc60b/download</download>
-		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/bxpfvey3fyczaa6ogpu3</image>
+		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/awc4f569ewrcavuhh8t1</image>
 		<rating>3</rating>
 	</shader>
 	<shader>
@@ -25,7 +22,7 @@
 		<id>604b96c2d4849b0013135d3e</id>
 		<link>https://editor.isf.video/shaders/604b96c2d4849b0013135d3e</link>
 		<download>https://www.interactiveshaderformat.com/sketches/604b96c2d4849b0013135d3e/download</download>
-		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/fgn8nkqtg0nev4wd8rje</image>
+		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/bsohqjoikx15rnhidubh</image>
 		<rating>3</rating>
 	</shader>
 	<shader>
@@ -33,7 +30,7 @@
 		<id>604b9913df59c70014cdc5fd</id>
 		<link>https://editor.isf.video/shaders/604b9913df59c70014cdc5fd</link>
 		<download>https://www.interactiveshaderformat.com/sketches/604b9913df59c70014cdc5fd/download</download>
-		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/ep0fbh5tmf3aqcxhb9l2</image>
+		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/eylu6wzhh28qysybofoa</image>
 		<rating>3</rating>
 	</shader>
 	<shader>
@@ -41,7 +38,7 @@
 		<id>604bcf6adf59c70014cdc5ff</id>
 		<link>https://editor.isf.video/shaders/604bcf6adf59c70014cdc5ff</link>
 		<download>https://www.interactiveshaderformat.com/sketches/604bcf6adf59c70014cdc5ff/download</download>
-		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/eudqsntrht0sfniknjgx</image>
+		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/a60waktijt97b73otzbi</image>
 		<rating>3</rating>
 	</shader>
 	<shader>
@@ -49,7 +46,7 @@
 		<id>604beb21d4849b0013135d41</id>
 		<link>https://editor.isf.video/shaders/604beb21d4849b0013135d41</link>
 		<download>https://www.interactiveshaderformat.com/sketches/604beb21d4849b0013135d41/download</download>
-		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/ep0gyfa84qq5ocnbplnv</image>
+		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/d5ipdaz2vq8rfv4pshjl</image>
 		<rating>3</rating>
 	</shader>
 	<shader>
@@ -57,7 +54,7 @@
 		<id>604c19cdd4849b0013135d43</id>
 		<link>https://editor.isf.video/shaders/604c19cdd4849b0013135d43</link>
 		<download>https://www.interactiveshaderformat.com/sketches/604c19cdd4849b0013135d43/download</download>
-		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/c9mgmerdpmvpv941cwbt</image>
+		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/ca8vjj0qniizmgrecnpx</image>
 		<rating>3</rating>
 	</shader>
 	<shader>
@@ -65,7 +62,7 @@
 		<id>604bc707df59c70014cdc5fe</id>
 		<link>https://editor.isf.video/shaders/604bc707df59c70014cdc5fe</link>
 		<download>https://www.interactiveshaderformat.com/sketches/604bc707df59c70014cdc5fe/download</download>
-		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/y87khtsc7cv6d3fnu7qe</image>
+		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/pt0vlqshmfyxbo6faori</image>
 		<rating>3</rating>
 	</shader>
 	<shader>
@@ -76,7 +73,6 @@
 		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/esrv5qth1pwmkouxye8g</image>
 		<rating>3</rating>
 	</shader>
-	<!-- End of new additions. -->
 	<!-- Commented out shaders were on the site but seem to have been removed after their certificate issues-->
 	<shader>
 		<name>Bloodstain</name>
@@ -289,7 +285,7 @@
 		<id>2124</id>
 		<link>https://www.interactiveshaderformat.com/sketches/2124</link>
 		<download>https://www.interactiveshaderformat.com/sketches/2124/download</download>
-		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_300,w_300/qluu3hjzh9tcu2tb8brg</image>
+		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/a1htx5hqu6rhznyb59hy</image>
 		<rating>4</rating>
 	</shader>
 	<shader>
@@ -305,7 +301,7 @@
 		<id>2102</id>
 		<link>https://www.interactiveshaderformat.com/sketches/2102</link>
 		<download>https://www.interactiveshaderformat.com/sketches/2102/download</download>
-		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_300,w_300/eehkoebr6uhqzjhjcrgy</image>
+		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/txcwh2yofvjigagaxxkq</image>
 		<rating>5</rating>
 	</shader>
 	<shader>
@@ -321,7 +317,7 @@
 		<id>4307</id>
 		<link>https://www.interactiveshaderformat.com/sketches/4307</link>
 		<download>https://www.interactiveshaderformat.com/sketches/4307/download</download>
-		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_300,w_300/mt4k9fotti2v0srewbln</image>
+		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/kpzwmojqkpaqhu0r6opa</image>
 		<rating>5</rating>
 	</shader>
 	<shader>
@@ -505,7 +501,7 @@
 		<id>3939</id>
 		<link>https://www.interactiveshaderformat.com/sketches/3939</link>
 		<download>https://www.interactiveshaderformat.com/sketches/3939/download</download>
-		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_300,w_300/v2parzqxgmlrcafwviiq</image>
+		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/u277gn6rdq5exi7phizi</image>
 		<rating>5</rating>
 	</shader>
 	<shader>
@@ -529,7 +525,7 @@
 		<id>3000</id>
 		<link>https://www.interactiveshaderformat.com/sketches/3000</link>
 		<download>https://www.interactiveshaderformat.com/sketches/3000/download</download>
-		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_300,w_300/pixo1klwdyxpltld2cmx</image>
+		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/um2dqggxajxjxwdesiyd</image>
 		<rating>4</rating>
 	</shader>
 	<shader>
@@ -690,8 +686,10 @@
 	</shader>
 	<shader>
 		<name>Kaleidolines</name>
-		<id>5e9af9f89a2c7b0017693785</id>
-		<image></image>
+		<id>60690eb1d4849b0013135d93</id>
+		<link>https://editor.isf.video/shaders/60690eb1d4849b0013135d93</link>
+		<download>https://www.interactiveshaderformat.com/sketches/60690eb1d4849b0013135d93/download</download>
+		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/wynclxfonrpjmrhmvsco</image>
 		<rating>3</rating>
 	</shader>
 	<shader>
@@ -702,8 +700,10 @@
 	</shader>
 	<shader>
 		<name>Ultimate Spiral</name>
-		<id>5e9af9d89a2c7b0017693782</id>
-		<image></image>
+		<id>60691c3edf59c70014cdc64d</id>
+		<link>https://editor.isf.video/shaders/60691c3edf59c70014cdc64d</link>
+		<download>https://www.interactiveshaderformat.com/sketches/60691c3edf59c70014cdc64d/download</download>
+		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/dcdrverytyjhv1qg6qdl</image>
 		<rating>3</rating>
 	</shader>
 	<shader>
@@ -772,151 +772,153 @@
 		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/bkueyyadw5k6qfmrzrou</image>
 		<rating>3</rating>
 	</shader>
-    <shader>
+  <shader>
 		<name>Audio - Circle Wave</name>
 		<id>5ee1b2d59a2c7b00176938c6</id>
 		<image>https://res.cloudinary.com/dgqcnpnmj/image/upload/v1591893025/circle_wave_sk84sq.png</image>
 		<rating>3</rating>
-    </shader>
-    <shader>
+  </shader>
+  <shader>
 		<name>Audio - Audio Surf</name>
 		<id>5ee24667658b34001590ff1a</id>
 		<image>https://res.cloudinary.com/dgqcnpnmj/image/upload/v1591893025/AudioSurf_gcz7rm.png</image>
 		<rating>3</rating>
-    </shader>
-    <shader>
+  </shader>
+  <shader>
 		<name>Audio - Fractal Audio</name>
 		<id>5ee254369a2c7b00176938d2</id>
 		<image>https://res.cloudinary.com/dgqcnpnmj/image/upload/v1591893025/fractal_audio_sgyqwf.png</image>
 		<rating>3</rating>
-    </shader>
-    <shader>
+  </shader>
+  <shader>
 		<name>Audio - Freq 2</name>
 		<id>5ee2598b658b34001590ff1f</id>
 		<image>https://res.cloudinary.com/dgqcnpnmj/image/upload/v1591893025/freq_2_eei4zx.png</image>
 		<rating>3</rating>
-    </shader>
-    <shader>
+  </shader>
+  <shader>
 		<name>Audio - waves remix</name>
 		<id>5ee2b7d8658b34001590ff20</id>
 		<image>https://res.cloudinary.com/dgqcnpnmj/image/upload/v1591917211/waves_remix_ocyrlc.png</image>
 		<rating>3</rating>
-    </shader>
-    <shader>
+  </shader>
+  <shader>
 		<name>Audio - polar visualizer</name>
 		<id>5ee442d8658b34001590ff23</id>
 		<image>https://res.cloudinary.com/dgqcnpnmj/image/upload/v1592018257/polar_visualizer_nq7is5.png</image>
 		<rating>3</rating>
-    </shader>
-    <shader>
+  </shader>
+  <shader>
 		<name>Circuits Explorer</name>
 		<id>5f756600d4849b0013135b6d</id>
 		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/g22wzps9wernkjwjvokp</image>
 		<rating>3</rating>
-    </shader>
-        <!--shader>
+  </shader>
+  <!--shader>
 		<name>Optical Flow Distort</name>
 		<id>5e7a80297c113618206debe7</id>
 		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/cfwrmessublckxon01qo</image>
 		<rating>3</rating>
-        </shader-->
+  </shader-->
 	<shader>
 		<name>Image Stretcher</name>
 		<id>5f3cf45ab1ed0d0014c0003d</id>
 		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/srxumetfyc8nrzwckna4</image>
 		<rating>3</rating>
-    </shader>
-    <shader>
+	</shader>
+	<shader>
 		<name>Solarise</name>
 		<id>5e7a7fc97c113618206de44f</id>
 		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/fymductjvfjkkx2jtlmu</image>
 		<rating>3</rating>
-    </shader>
-    <shader>
+	</shader>
+	<shader>
 		<name>Hoop Dreams</name>
 		<id>5e7a80127c113618206dea13</id>
 		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/sspswi0mxmkcqgujxvvh</image>
 		<rating>3</rating>
-    </shader>
-    <shader>
+	</shader>
+	<shader>
 		<name>z33d</name>
 		<id>5e7a7fc97c113618206de443</id>
 		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/c26dlbv2z0k2fxeiwvll</image>
 		<rating>3</rating>
-    </shader>
-    <shader>
+	</shader>
+	<shader>
 		<name>Voronoi Lines</name>
 		<id>5e7a802f7c113618206dec62</id>
 		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/ogfkzzgdlwlvxwvfrwg1</image>
 		<rating>3</rating>
-    </shader>
-    <shader>
+	</shader>
+	<shader>
 		<name>Hypno Worm</name>
 		<id>5e7a802f7c113618206dec66</id>
 		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/zxqr2pshq3ueuthterva</image>
 		<rating>3</rating>
-    </shader>
-    <shader>
+	</shader>
+	<shader>
 		<name>Zebre</name>
 		<id>5e7a7fd57c113618206de546</id>
 		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/ekbysimxibqbtbf3kcmb</image>
 		<rating>3</rating>
-    </shader>
-    <shader>
+	</shader>
+	<shader>
 		<name>Cell Mod</name>
 		<id>5e7a7fcf7c113618206de4c8</id>
 		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/nb4dvzssz3zlqnffzqkj</image>
 		<rating>3</rating>
-    </shader>
-    <shader>
+	</shader>
+	<shader>
 		<name>Vector From Hell</name>
 		<id>5e7a7fe17c113618206de63b</id>
 		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/gnbip0uuctfjjw2ujbr4</image>
 		<rating>3</rating>
-    </shader>
-    <shader>
+	</shader>
+	<shader>
 		<name>Black Hole Sun</name>
 		<id>5ec156239a2c7b001769385f</id>
-		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/hf7jmf18es0gt7bzkqpm</image>
+		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/cc9g8oklnqinw85crrpr</image>
 		<rating>3</rating>
-    </shader>
-    <shader>
+	</shader>
+	<shader>
 		<name>Hyperbolic Space</name>
 		<id>5e7a7fbe7c113618206de3ab</id>
 		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/lfhb1lc5dv6mfwdm441p</image>
 		<rating>3</rating>
-    </shader>
-    <shader>
+	</shader>
+	<shader>
 		<name>Cloud Toonscape</name>
 		<id>5e7a7fc27c113618206de3e3</id>
 		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/qx386vpfmq8fji2xru1c</image>
 		<rating>3</rating>
-    </shader>
-    <shader>
+	</shader>
+	<shader>
 		<name>Lightning Flash</name>
 		<id>5e7a7fd87c113618206de592</id>
-		<image></image>
+		<link>https://editor.isf.video/shaders/5e7a7fd87c113618206de592</link>
+		<download>https://www.interactiveshaderformat.com/sketches/5e7a7fd87c113618206de592/download</download>
+		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/ktza0kfeflndtqiqljan</image>
 		<rating>3</rating>
-    </shader>
-    <shader>
+	</shader>
+	<shader>
 		<name>Cosmic Flare</name>
 		<id>5f2c05e6b1ed0d0014c0002a</id>
 		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/xvkrdzzic1wptkgie9kh</image>
 		<rating>3</rating>
-    </shader>
+	</shader>
     <shader>
 		<name>Wavey Striped</name>
 		<id>5f2833f40c6c470015d2fea9</id>
 		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/pxuxphm65d5b2btgflxb</image>
 		<rating>3</rating>
-    </shader>
-    <shader>
+	</shader>
+	<shader>
 		<name>Gum</name>
 		<id>5ef1bfa60779c10013931491</id>
 		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/hyxbcfwvepxirjyc4y0n</image>
 		<rating>3</rating>
-    </shader>
-    <shader>
+	</shader>
+	<shader>
 		<name>Rosaic</name>
 		<id>5e7a7ff97c113618206de821</id>
 		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/gd3nisnwecyebjhyx7za</image>
@@ -1018,19 +1020,6 @@
 		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/kbfif8mckfooicfuiqqn</image>
 		<rating>3</rating>
 	</shader>
-	<shader>	
-		<name>TieDie_xL</name>
-		<id>604c19cdd4849b0013135d43</id>
-		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/ca8vjj0qniizmgrecnpx</image>
-		<rating>4</rating>
-	</shader>	
-	<shader>	
-		<name>RGBLaserGlobe_xL</name>
-		<id>604bcf6adf59c70014cdc5ff</id>
-		<image>https://res.cloudinary.com/hrlz5rsqo/image/upload/c_fill,h_250,w_360/r443hlw5odekcabyldrw</image>
-		<rating>5</rating>
-	</shader>	
-	
 	<!--shader>
 		<name></name>
 		<id></id>
